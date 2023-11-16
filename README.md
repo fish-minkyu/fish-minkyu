@@ -16,5 +16,5 @@
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white" />
 </div>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fish-minkyu)](https://github.com/anuraghazra/github-readme-stats)
 
