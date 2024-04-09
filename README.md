@@ -4,5 +4,6 @@
 📘 Blog. [<img src="https://img.shields.io/badge/notionBlog-black?style&logo=notion&logoColor=white" width = "60" height = "15" />](https://spotty-cantaloupe-916.notion.site/ed5bca100aca474fbe751e208ae4bf64?pvs=4)<br><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fish-minkyu)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fish-minkyu)](https://github.com/anuraghazra/github-readme-stats)
+</div>
