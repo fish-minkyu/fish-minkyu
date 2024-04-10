@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazon ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazon s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=amazon rds&logoColor=white"/>
 </div>
 
 <br>
